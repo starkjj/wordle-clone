@@ -1,9 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
+import Header from './components/Header';
+import React from 'react';
 
 function App() {
   return (
-    <div className='text'>We're gonna make a wordle clone!</div>
+    <div className="App">
+        <Header/>
+        
+    </div>
   );
 }
 

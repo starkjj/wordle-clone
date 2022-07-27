@@ -1,0 +1,12 @@
+.headerCenter
+ {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-bottom: 1px solid rgba(190, 190, 190, 0.25);
+    padding: 15px;
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+}
