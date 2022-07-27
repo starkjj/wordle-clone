@@ -1,0 +1,6 @@
+.boardCell
+{
+    display: flex;
+    color: white;
+    padding: 5px;
+}

@@ -1,10 +1,15 @@
 import React from 'react'
+import BoardCell from './BoardCell'
+import './BoardRow.css'
 
 const BoardRow = () => {
   return (
     <div className='boardRow'>
-        {/* <div className='boardRow__cell'></div> */}
-        Row
+        <BoardCell/>
+        <BoardCell/>
+        <BoardCell/>
+        <BoardCell/>
+        <BoardCell/>
     </div>
   )
 }
