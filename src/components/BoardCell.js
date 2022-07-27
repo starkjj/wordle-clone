@@ -3,7 +3,7 @@ import './BoardCell.css'
 
 const BoardCell = () => {
   return (
-    <div className='boardCell'>B</div>
+    <div className='boardCell'></div>
   )
 }
 
